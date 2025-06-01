@@ -42,3 +42,11 @@ Auch die To-Do Liste wird bei Bedarf geändert.
 - [-] Vorgefertigte Charakterbogen
 - [-] Eigenschaften
 - [x] Fertigkeiten
+
+## Quellen
+[DSA Ulisses Regelwiki](https://dsa.ulisses-regelwiki.de) - für einen Großteil der Statistiken zu den Datentabellen.
+- [Waffen](https://dsa.ulisses-regelwiki.de/RS_Waffen.html)
+- [Rüstung](https://dsa.ulisses-regelwiki.de/RS_Ruestung.html)
+
+Außerdem wurden nachfolgende Seiten (ebenfalls von Ulisses) verwendet:
+- [Kampfregeln](https://dsa.ulisses-regelwiki.de/Kampfregeln.html)
